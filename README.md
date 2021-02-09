@@ -1,5 +1,5 @@
 # Teste-LabLuby
-Aqui estão os testes 3 pedidos pela luby software:
+Testes requisitados pela luby software:
 
 Teste 1 - Exercicios de logica feitos em java
 
